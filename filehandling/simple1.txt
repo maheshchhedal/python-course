@@ -1,0 +1,3 @@
+hello python developer
+ hello how are you
+ append mode open
